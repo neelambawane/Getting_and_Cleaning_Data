@@ -66,4 +66,5 @@ write.table(FinalData, "FinalData.txt", row.name=FALSE)
 str(FinalData)
 
 # view the final data
+FinalData
 
